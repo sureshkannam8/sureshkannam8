@@ -39,8 +39,8 @@ I actively share knowledge and insights through Medium articles and LinkedIn pos
 
 - Passionate about **digital marketing**, PPC campaigns, SEO fundamentals, and business analytics
 - Active **content creator**: blogging on Medium, sharing insights on LinkedIn, and developing skill documentation on GitHub
-- Career transitioning with hands-on expertise in **Google Ads**, **Meta Ads**, and analytics tools
-- Enthusiast of sports, spirituality, and community growth
+- Career transition into **product marketing** with hands-on expertise in **Google Ads**, **Meta Ads**, and analytics tools
+- Enthusiast of reading, spirituality, and products
 
 ---
 
