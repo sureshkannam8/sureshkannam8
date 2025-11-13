@@ -2,7 +2,7 @@
 
 **`Digital Marketing Executive | Product Marketing | Mental Models Enthusiast`**
 
-Hi! I'm Suresh from Chennai, Tamil Nadu. With an engineering background in electronics and communication, I bring hands-on experience as a digital marketing executive—working across leading platforms like Google Ads and Meta Ads, SEO optimization, and technical support. I have managed multi-channel campaigns, tackled real-world advertising issues, and grown brands using digital marketing, and am now focusing on product marketing.
+Hi! I'm Suresh Kanna M from Chennai, Tamil Nadu. With an engineering background in electronics and communication, I bring hands-on experience as a digital marketing executive—working across leading platforms like Google Ads and Meta Ads, SEO optimization, and technical support. I have managed multi-channel campaigns, tackled real-world advertising issues, and grown brands using digital marketing, and am now focusing on product marketing.
 
 I actively share knowledge and insights through Medium articles and LinkedIn posts, centering my current efforts around product marketing and the impactful use of mental models in business. I’m passionate about bridging technology, marketing, and analytics. I share knowledge through blogging and community forums, aiming for impactful growth in every domain.
  I pursue.
