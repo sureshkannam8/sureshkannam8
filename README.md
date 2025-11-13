@@ -47,9 +47,14 @@ Hi! I'm Suresh from Tamil Nadu, pivoting my career from engineering to digital m
 
 ### 📦 Featured Projects
 
-- [Digital Marketing Campaigns](https://github.com/sureshkannam8/digital-marketing-campaigns): Case studies and campaign analytics (Google Ads, Meta Ads)
-- [Business Analytics Roadmap](https://github.com/sureshkannam8/ba-roadmap): Notes, frameworks, and resources for analytics career transition
-- [GitHub Profile ReadMe](https://github.com/sureshkannam8/sureshkannam8): Markdown documentation for GitHub profile building
+- [Medium Blog: Content Creation & Insights](https://medium.com/@sureshkannam8)  
+  Articles on digital marketing, PPC campaigns, learning philosophy, analytics, and practical case studies (Google Ads, Perplexity AI, Merchant Center, SEO, sports, and more)
+
+- [Product Marketing Case Studies](https://github.com/sureshkannam8/product-marketing-case-studies)  
+  Analysis, frameworks, and strategic insights from real-world product marketing campaigns (coming soon or add if repo exists)
+
+- [GitHub Profile ReadMe](https://github.com/sureshkannam8/sureshkannam8)  
+  Markdown documentation, portfolio curation, and profile building tips
 
 ---
 
