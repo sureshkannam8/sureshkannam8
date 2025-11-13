@@ -1,18 +1,21 @@
 # 🚀 M. Suresh Kanna
 
-**`Digital Marketing Executive | Career Transitioner | Tech & Sports Enthusiast`**
+**`Digital Marketing Executive | Product Marketing | Mental Models Enthusiast`**
 
-Hi! I'm Suresh from Tamil Nadu, pivoting my career from engineering to digital marketing, business analytics, and technical support. With a foundation in electronics and communication and hands-on experience in Google Ads and Meta Ads, I’m passionate about bridging technology, marketing, and analytics. I share knowledge through blogging, YouTube tutorials, and community forums, aiming for impactful growth in every domain I pursue.
+Hi! I'm Suresh from Chennai, Tamil Nadu. With an engineering background in electronics and communication, I bring hands-on experience as a digital marketing executive—working across leading platforms like Google Ads and Meta Ads, SEO optimization, and technical support. I have managed multi-channel campaigns, tackled real-world advertising issues, and grown brands using digital marketing, and am now focusing on product marketing.
+
+I actively share knowledge and insights through Medium articles and LinkedIn posts, centering my current efforts around product marketing and the impactful use of mental models in business. I’m passionate about bridging technology, marketing, and analytics. I share knowledge through blogging and community forums, aiming for impactful growth in every domain.
+ I pursue.
 
 <p align="left">
+   <a href="https://www.linkedin.com/in/suresh-kanna-digital-marketing-executive/">
+      <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-suresh--kanna--digital--marketing--executive-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
    <a href="https://medium.com/@sureshkannam8">
-      <img alt="Medium Blog" title="Read my Articles" src="https://custom-icon-badges.demolab.com/medium/followers/sureshkannam8?color=%2300ab6c&label=Medium&logo=medium&logoColor=white&style=for-the-badge&labelColor=333333"/>
+      <img alt="Medium Blog" title="Read my Articles" src="https://img.shields.io/badge/Medium-@sureshkannam8-00ab6c?style=for-the-badge&logo=medium&logoColor=white"/>
    </a>
-   <a href="https://www.linkedin.com/in/sureshkannam8/">
-      <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/linkedin/profile/sureshkannam8?color=0A66C2&label=LinkedIn&logo=linkedin&labelColor=0077b5&logoColor=white&style=for-the-badge"/>
-   </a>
-   <a href="https://github.com/sureshkannam8?tab=followers">
-      <img alt="GitHub followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sureshkannam8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+   <a href="https://github.com/sureshkannam8">
+      <img alt="GitHub" title="Follow me on Github" src="https://img.shields.io/badge/GitHub-sureshkannam8-1155ba?style=for-the-badge&logo=github&logoColor=white"/>
    </a>
 </p>
 
@@ -25,14 +28,10 @@ Hi! I'm Suresh from Tamil Nadu, pivoting my career from engineering to digital m
 <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 <img align="left" alt="Slack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
 <img align="left" alt="HubSpot" width="30px" style="padding-right:10px;" src="https://www.hubspot.com/favicon.ico" />
-<img align="left" alt="SEMrush" width="30px" style="padding-right:10px;" src="https://www.semrush.com/apple-touch-icon.png" />
 <img align="left" alt="Looker Studio" width="30px" style="padding-right:10px;" src="https://lookerstudio.google.com/favicon.ico" />
-<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-plain.svg" />
 <img align="left" alt="Google Ads" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googleads.svg" />
 <img align="left" alt="Meta Ads" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg" />
 <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-<img align="left" alt="YouTube" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" />
-<img align="left" alt="Agency Analytics" width="30px" style="padding-right:10px;" src="https://www.agencyanalytics.com/favicon-32x32.png" />
 <br />
 
 
