@@ -8,8 +8,8 @@ I actively share knowledge and insights through Medium articles and LinkedIn pos
  I pursue.
 
 <p align="left">
-   <a href="https://www.linkedin.com/in/suresh-kanna-digital-marketing-executive/">
-      <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-suresh--kanna--digital--marketing--executive-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   <a href="https://https://www.linkedin.com/in/suresh-kanna-mohanam//">
+      <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-suresh--kanna--mohanam--executive-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://medium.com/@sureshkannam8">
       <img alt="Medium Blog" title="Read my Articles" src="https://img.shields.io/badge/Medium-@sureshkannam8-00ab6c?style=for-the-badge&logo=medium&logoColor=white"/>
